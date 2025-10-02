@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE70CFEF-622E-4D95-9867-771D4F4E271D}|DataAccess\\DataAccess.csproj|c:\\users\\pc\\source\\repos\\cibergestionapi\\dataaccess\\taskdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE70CFEF-622E-4D95-9867-771D4F4E271D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\taskdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5D6EB7-1A3B-412D-A200-8C9DC5D5BBBF}|BussinessLayer\\BussinessLayer.csproj|c:\\users\\pc\\source\\repos\\cibergestionapi\\bussinesslayer\\taskbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5D6EB7-1A3B-412D-A200-8C9DC5D5BBBF}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\taskbussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED5E175-5236-41E7-946F-A679C57371A4}|CiberGestionApi\\CiberGestionApi.csproj|c:\\users\\pc\\source\\repos\\cibergestionapi\\cibergestionapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED5E175-5236-41E7-946F-A679C57371A4}|CiberGestionApi\\CiberGestionApi.csproj|solutionrelative:cibergestionapi\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED5E175-5236-41E7-946F-A679C57371A4}|CiberGestionApi\\CiberGestionApi.csproj|c:\\users\\pc\\source\\repos\\cibergestionapi\\cibergestionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED5E175-5236-41E7-946F-A679C57371A4}|CiberGestionApi\\CiberGestionApi.csproj|solutionrelative:cibergestionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED5E175-5236-41E7-946F-A679C57371A4}|CiberGestionApi\\CiberGestionApi.csproj|c:\\users\\pc\\source\\repos\\cibergestionapi\\cibergestionapi\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED5E175-5236-41E7-946F-A679C57371A4}|CiberGestionApi\\CiberGestionApi.csproj|solutionrelative:cibergestionapi\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE70CFEF-622E-4D95-9867-771D4F4E271D}|DataAccess\\DataAccess.csproj|c:\\users\\pc\\source\\repos\\cibergestionapi\\dataaccess\\interfaces\\itaskdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE70CFEF-622E-4D95-9867-771D4F4E271D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\interfaces\\itaskdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B054A13-13C8-42C4-884F-199B66A44F7C}|Entities\\Entities.csproj|c:\\users\\pc\\source\\repos\\cibergestionapi\\entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B054A13-13C8-42C4-884F-199B66A44F7C}|Entities\\Entities.csproj|solutionrelative:entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED5E175-5236-41E7-946F-A679C57371A4}|CiberGestionApi\\CiberGestionApi.csproj|c:\\users\\pc\\source\\repos\\cibergestionapi\\cibergestionapi\\cibergestionapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DED5E175-5236-41E7-946F-A679C57371A4}|CiberGestionApi\\CiberGestionApi.csproj|solutionrelative:cibergestionapi\\cibergestionapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5D6EB7-1A3B-412D-A200-8C9DC5D5BBBF}|BussinessLayer\\BussinessLayer.csproj|c:\\users\\pc\\source\\repos\\cibergestionapi\\bussinesslayer\\bussinesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D5D6EB7-1A3B-412D-A200-8C9DC5D5BBBF}|BussinessLayer\\BussinessLayer.csproj|solutionrelative:bussinesslayer\\bussinesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED5E175-5236-41E7-946F-A679C57371A4}|CiberGestionApi\\CiberGestionApi.csproj|c:\\users\\pc\\source\\repos\\cibergestionapi\\cibergestionapi\\cibergestionapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DED5E175-5236-41E7-946F-A679C57371A4}|CiberGestionApi\\CiberGestionApi.csproj|solutionrelative:cibergestionapi\\cibergestionapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED5E175-5236-41E7-946F-A679C57371A4}|CiberGestionApi\\CiberGestionApi.csproj|c:\\users\\pc\\source\\repos\\cibergestionapi\\cibergestionapi\\entities\\facturasimpledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED5E175-5236-41E7-946F-A679C57371A4}|CiberGestionApi\\CiberGestionApi.csproj|solutionrelative:cibergestionapi\\entities\\facturasimpledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED5E175-5236-41E7-946F-A679C57371A4}|CiberGestionApi\\CiberGestionApi.csproj|c:\\users\\pc\\source\\repos\\cibergestionapi\\cibergestionapi\\entities\\facturaregistrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED5E175-5236-41E7-946F-A679C57371A4}|CiberGestionApi\\CiberGestionApi.csproj|solutionrelative:cibergestionapi\\entities\\facturaregistrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED5E175-5236-41E7-946F-A679C57371A4}|CiberGestionApi\\CiberGestionApi.csproj|c:\\users\\pc\\source\\repos\\cibergestionapi\\cibergestionapi\\entities\\detallefacturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED5E175-5236-41E7-946F-A679C57371A4}|CiberGestionApi\\CiberGestionApi.csproj|solutionrelative:cibergestionapi\\entities\\detallefacturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED5E175-5236-41E7-946F-A679C57371A4}|CiberGestionApi\\CiberGestionApi.csproj|c:\\users\\pc\\source\\repos\\cibergestionapi\\cibergestionapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DED5E175-5236-41E7-946F-A679C57371A4}|CiberGestionApi\\CiberGestionApi.csproj|solutionrelative:cibergestionapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DED5E175-5236-41E7-946F-A679C57371A4}|CiberGestionApi\\CiberGestionApi.csproj|c:\\users\\pc\\source\\repos\\cibergestionapi\\cibergestionapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DED5E175-5236-41E7-946F-A679C57371A4}|CiberGestionApi\\CiberGestionApi.csproj|solutionrelative:cibergestionapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskBussiness.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\BussinessLayer\\TaskBussiness.cs",
+              "RelativeDocumentMoniker": "BussinessLayer\\TaskBussiness.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\BussinessLayer\\TaskBussiness.cs",
+              "RelativeToolTip": "BussinessLayer\\TaskBussiness.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAArwCUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:59:29.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\CiberGestionApi\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "CiberGestionApi\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\CiberGestionApi\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "CiberGestionApi\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAIAwwDYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:56:30.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\CiberGestionApi\\Program.cs",
+              "RelativeDocumentMoniker": "CiberGestionApi\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\CiberGestionApi\\Program.cs",
+              "RelativeToolTip": "CiberGestionApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:59:19.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITaskData.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\DataAccess\\Interfaces\\ITaskData.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Interfaces\\ITaskData.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\DataAccess\\Interfaces\\ITaskData.cs",
+              "RelativeToolTip": "DataAccess\\Interfaces\\ITaskData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:01:15.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskData.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\DataAccess\\TaskData.cs",
+              "RelativeDocumentMoniker": "DataAccess\\TaskData.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\DataAccess\\TaskData.cs",
+              "RelativeToolTip": "DataAccess\\TaskData.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAkwH0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:04:22.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CiberGestionApi",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\CiberGestionApi\\CiberGestionApi.csproj",
+              "RelativeDocumentMoniker": "CiberGestionApi\\CiberGestionApi.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\CiberGestionApi\\CiberGestionApi.csproj",
+              "RelativeToolTip": "CiberGestionApi\\CiberGestionApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T18:49:51.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\Entities\\Class1.cs",
+              "RelativeDocumentMoniker": "Entities\\Class1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\Entities\\Class1.cs",
+              "RelativeToolTip": "Entities\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:52:54.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\CiberGestionApi\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "CiberGestionApi\\Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\CiberGestionApi\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "CiberGestionApi\\Controllers\\FacturaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:30:58.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FacturaSimpleDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\CiberGestionApi\\Entities\\FacturaSimpleDto.cs",
+              "RelativeDocumentMoniker": "CiberGestionApi\\Entities\\FacturaSimpleDto.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\CiberGestionApi\\Entities\\FacturaSimpleDto.cs",
+              "RelativeToolTip": "CiberGestionApi\\Entities\\FacturaSimpleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T16:30:29.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CiberGestionApi",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\CiberGestionApi\\CiberGestionApi.csproj",
+              "RelativeDocumentMoniker": "CiberGestionApi\\CiberGestionApi.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\CiberGestionApi\\CiberGestionApi.csproj",
+              "RelativeToolTip": "CiberGestionApi\\CiberGestionApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T18:09:39.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BussinessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\BussinessLayer\\BussinessLayer.csproj",
+              "RelativeDocumentMoniker": "BussinessLayer\\BussinessLayer.csproj",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\BussinessLayer\\BussinessLayer.csproj",
+              "RelativeToolTip": "BussinessLayer\\BussinessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T17:59:12.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FacturaRegistroDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\CiberGestionApi\\Entities\\FacturaRegistroDto.cs",
+              "RelativeDocumentMoniker": "CiberGestionApi\\Entities\\FacturaRegistroDto.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\CiberGestionApi\\Entities\\FacturaRegistroDto.cs",
+              "RelativeToolTip": "CiberGestionApi\\Entities\\FacturaRegistroDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:04:33.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DetalleFacturaDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\CiberGestionApi\\Entities\\DetalleFacturaDto.cs",
+              "RelativeDocumentMoniker": "CiberGestionApi\\Entities\\DetalleFacturaDto.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\CiberGestionApi\\Entities\\DetalleFacturaDto.cs",
+              "RelativeToolTip": "CiberGestionApi\\Entities\\DetalleFacturaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:04:24.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\CiberGestionApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CiberGestionApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\CiberGestionApi\\appsettings.Development.json",
+              "RelativeToolTip": "CiberGestionApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-04T16:32:01.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\CiberGestionApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CiberGestionApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\CiberGestionApi\\CiberGestionApi\\WeatherForecast.cs",
+              "RelativeToolTip": "CiberGestionApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T17:07:10.96Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

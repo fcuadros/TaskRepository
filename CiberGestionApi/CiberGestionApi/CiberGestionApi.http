@@ -1,0 +1,6 @@
+@CiberGestionApi_HostAddress = http://localhost:5124
+
+GET {{CiberGestionApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

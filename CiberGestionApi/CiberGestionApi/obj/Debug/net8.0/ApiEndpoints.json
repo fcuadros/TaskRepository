@@ -1,0 +1,107 @@
+[
+  {
+    "ContainingType": "CiberGestionApi.Controllers.TaskController",
+    "Method": "CreateTask",
+    "RelativePath": "create-task",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "task",
+        "Type": "Entities.Entities.TaskDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CiberGestionApi.Controllers.TaskController",
+    "Method": "DeleteTask",
+    "RelativePath": "delete-task/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CiberGestionApi.Controllers.TaskController",
+    "Method": "GetTask",
+    "RelativePath": "get-task/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CiberGestionApi.Controllers.TaskController",
+    "Method": "ListTasks",
+    "RelativePath": "list-tasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CiberGestionApi.Controllers.FacturaController",
+    "Method": "ListarSoloSerieYCliente",
+    "RelativePath": "listar-solo-serie-cliente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CiberGestionApi.Controllers.FacturaController",
+    "Method": "RegistrarFactura",
+    "RelativePath": "registrar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "factura",
+        "Type": "CiberGestionApi.Entities.FacturaRegistroDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CiberGestionApi.Controllers.TaskController",
+    "Method": "UpdateTask",
+    "RelativePath": "update-task/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "task",
+        "Type": "Entities.Entities.TaskDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
