@@ -1,0 +1,53 @@
+<div class="task-container">
+  <h2>Listado de Tareas</h2>
+
+  <div class="actions">
+    <button routerLink="/tasks/create" class="btn btn-primary">Nueva Tarea</button>
+    <button (click)="loadTasks()" class="btn btn-refresh">Actualizar</button>
+  </div>
+
+  <!-- Loading State -->
+  <div *ngIf="loading" class="loading">
+    Cargando tareas...
+  </div>
+
+  <!-- Error State -->
+  <div *ngIf="error && !loading" class="error-message">
+    {{ error }}
+  </div>
+
+  <!-- Tasks Table -->
+  <table *ngIf="!loading && !error" class="task-table">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Descripción</th>
+        <th>Fecha Vencimiento</th>
+        <th>Estado</th>
+        <th>Acciones</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let task of tasks">
+        <td>{{ task.id }}</td>
+        <td>{{ task.title }}</td>
+        <td>{{ task.description }}</td>
+        <td>{{ formatDate(task.dueDate) }}</td>
+        <td>
+          <span [class]="getStateClass(task.state)" class="state-badge">
+            {{ getStateText(task.state) }}
+          </span>
+        </td>
+        <td class="actions">
+          <button [routerLink]="['/tasks/edit', task.id]" class="btn btn-edit">Editar</button>
+          <button (click)="deleteTask(task.id)" class="btn btn-delete">Eliminar</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p *ngIf="tasks.length === 0 && !loading && !error" class="no-tasks">
+    No hay tareas para mostrar.
+  </p>
+</div>

@@ -1,0 +1,85 @@
+<div class="form-container">
+  <h2>{{ isEdit ? 'Editar Tarea' : 'Crear Tarea' }}</h2>
+
+  <!-- Error Message -->
+  <div *ngIf="error" class="error-message">
+    {{ error }}
+  </div>
+
+  <!-- Loading State -->
+  <div *ngIf="loading && isEdit" class="loading">
+    Cargando tarea...
+  </div>
+
+  <form [formGroup]="taskForm" (ngSubmit)="onSubmit()" *ngIf="!loading || !isEdit">
+    <div class="form-group">
+      <label for="title">Título *</label>
+      <input 
+        id="title" 
+        type="text" 
+        formControlName="title" 
+        class="form-control"
+        [class.invalid]="isFieldInvalid('title')"
+        placeholder="Ingrese el título de la tarea">
+      <div *ngIf="isFieldInvalid('title')" class="error">
+        <span *ngIf="taskForm.get('title')?.errors?.['required']">El título es requerido</span>
+        <span *ngIf="taskForm.get('title')?.errors?.['minlength']">Mínimo 3 caracteres</span>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="description">Descripción *</label>
+      <textarea 
+        id="description" 
+        formControlName="description" 
+        class="form-control" 
+        rows="4"
+        [class.invalid]="isFieldInvalid('description')"
+        placeholder="Ingrese la descripción de la tarea"></textarea>
+      <div *ngIf="isFieldInvalid('description')" class="error">
+        <span *ngIf="taskForm.get('description')?.errors?.['required']">La descripción es requerida</span>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="dueDate">Fecha de Vencimiento *</label>
+      <input 
+        id="dueDate" 
+        type="date" 
+        formControlName="dueDate" 
+        class="form-control"
+        [class.invalid]="isFieldInvalid('dueDate')">
+      <div *ngIf="isFieldInvalid('dueDate')" class="error">
+        <span *ngIf="taskForm.get('dueDate')?.errors?.['required']">La fecha es requerida</span>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label for="state">Estado *</label>
+      <select 
+        id="state" 
+        formControlName="state" 
+        class="form-control"
+        [class.invalid]="isFieldInvalid('state')">
+        <option *ngFor="let state of states" [value]="state.value">{{ state.label }}</option>
+      </select>
+    </div>
+
+    <div class="form-actions">
+      <button 
+        type="submit" 
+        [disabled]="taskForm.invalid || loading" 
+        class="btn btn-primary">
+        <span *ngIf="loading">Procesando...</span>
+        <span *ngIf="!loading">{{ isEdit ? 'Actualizar' : 'Crear' }} Tarea</span>
+      </button>
+      <button 
+        type="button" 
+        (click)="cancel()" 
+        class="btn btn-secondary"
+        [disabled]="loading">
+        Cancelar
+      </button>
+    </div>
+  </form>
+</div>

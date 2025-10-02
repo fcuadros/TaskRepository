@@ -1,0 +1,18 @@
+<h2>Listado de Facturas</h2>
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th>Serie</th>
+      <th>Cliente</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let factura of facturas">
+      <td>{{ factura.serie }}</td>
+      <td>{{ factura.clienteNombre }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<p *ngIf="facturas.length === 0">No hay facturas para mostrar.</p>
